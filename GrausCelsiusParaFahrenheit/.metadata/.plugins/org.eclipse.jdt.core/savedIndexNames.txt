@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\github_Qua209.068\ATividade DontPad\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2367783050.index
+2886237786.index
+2400989561.index
+3349118551.index
+1549810923.index
+2948978094.index
+796068857.index

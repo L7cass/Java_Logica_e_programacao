@@ -1,0 +1,22 @@
+package Principal;
+
+import java.util.Scanner;
+
+public class AnoBissexto {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		int ano;
+		
+		System.out.println("digite o ano: ");
+		ano = leia.nextInt();
+		
+		int divisao = ano /4;
+		
+	
+		leia.close();
+
+	}
+
+}

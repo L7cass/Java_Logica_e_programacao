@@ -1,0 +1,31 @@
+package Principal;
+
+import java.util.Scanner;
+
+public class NotasBimestrais {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+
+		int nota;
+
+		System.out.println("digite a nota do 1° bimestre: ");
+		nota = leia.nextInt();
+
+		System.out.println("digite a nota do 2° bimestre: ");
+		nota = leia.nextInt();
+
+		System.out.println("digite a nota do 3° bimestre: ");
+		nota = leia.nextInt();
+
+		System.out.println("digite a nota do 4° bimestre: ");
+		nota = leia.nextInt();
+
+		int soma = (nota + nota + nota + nota) / 4;
+		System.out.println("a sua media é: " + soma);
+
+		leia.close();
+
+	}
+
+}

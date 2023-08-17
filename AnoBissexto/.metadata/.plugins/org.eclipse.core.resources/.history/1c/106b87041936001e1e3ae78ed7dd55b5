@@ -1,0 +1,10 @@
+package Pricipal;
+
+public class Leia3NumerosDecrescente {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

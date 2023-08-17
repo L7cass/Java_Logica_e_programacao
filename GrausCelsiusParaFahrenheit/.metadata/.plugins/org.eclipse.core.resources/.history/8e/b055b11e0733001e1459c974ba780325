@@ -1,0 +1,30 @@
+package Principal;
+
+import java.util.Scanner;
+
+public class SalarioPorMes {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		//Faça um Programa que pergunte quanto você ganha por hora
+		//e o número de horas trabalhadas no mês.
+		// Calcule e mostre o total do seu salário no referido mês (sem descontos e impostos).
+
+
+		int salario;
+		int horas;
+
+		System.out.println("qual o seu salario(por hora)? ");
+		salario = leia.nextInt();
+
+		System.out.println("qual foi sua carga horaria(mensal)? ");
+		horas = leia.nextInt();
+
+		int soma = salario * horas;
+
+		System.out.println("seu salario mensal foi: " + soma);
+
+		leia.close();
+	}
+
+}

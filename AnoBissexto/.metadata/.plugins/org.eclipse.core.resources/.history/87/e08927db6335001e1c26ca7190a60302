@@ -1,0 +1,34 @@
+package Principal;
+
+import java.util.Scanner;
+
+public class AnoBissexto {
+
+	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
+		
+		int ano;
+		
+		
+		
+	    System.out.println("digite um ano: ");
+	
+		int divisao = ano/4;
+		
+		
+	
+		
+		if ( divisao == 0); 
+		{
+			System.out.println(ano + " é um ano bissexto");
+		}
+	     if ( divisao != 0 );
+		{
+			System.out.println(ano + " não é um ano bissexto");
+		}
+	
+		leia.close();
+
+	}
+
+}
