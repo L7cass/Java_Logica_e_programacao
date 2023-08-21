@@ -7,14 +7,17 @@ INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\github_Qua209.068\lógica_prog
 4117086876.index
 1980422675.index
 3806395143.index
+235043725.index
 1449646691.index
 2078414413.index
 3068264757.index
 2270287731.index
-988785077.index
+2290113540.index
 1866167541.index
+988785077.index
 2767030279.index
 550089951.index
+3125100508.index
 536232087.index
 1824761397.index
 2945835308.index
@@ -25,6 +28,7 @@ INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\github_Qua209.068\lógica_prog
 3804729267.index
 3289649077.index
 3363701069.index
+2367783050.index
 1546602423.index
 1609350564.index
 476591679.index

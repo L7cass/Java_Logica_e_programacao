@@ -1,0 +1,11 @@
+Encapsilamento é uma forma de esconder detalhes de implementação de algum componete e evitar que sofram 
+alterações ou acessos inválidos;
+
+no encapsulamento usamos metodos de acessores 
+para ascessar os atributos das classes, evitando assim 
+incositencias no programa;
+
+A classe é a responsável por garantir a consistencia
+dos dados e do objeto;
+o modificador de acesso utilizando no encapsulamento é o private
+ou protected;

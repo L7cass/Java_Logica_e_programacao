@@ -39,10 +39,10 @@ public class Programa {
 		System.out.println(carroPopular.ano);*/
 		
 		System.out.println(carro.acelerar);
-		carro.acelerarveiculo();
-		carro.acelerarveiculo();
-		carro.acelerarveiculo();
-		carro.acelerarveiculo();
+		carro.acelerarVeiculo();
+		carro.acelerarVeiculo();
+		carro.acelerarVeiculo();
+		carro.acelerarVeiculo();
 		
 		System.out.println(carro.acelerar);
 		carro.acelerar = 10;

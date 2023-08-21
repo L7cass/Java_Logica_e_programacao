@@ -9,8 +9,7 @@ public class carro {
 	public int acelerar;
 	
 	public void acelerarVeiculo() {
-		acelerar = 
-		}
+		
 	}
 	
 
