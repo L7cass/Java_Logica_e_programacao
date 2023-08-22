@@ -3,6 +3,8 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="estities.medida"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="estities.usuario"/>
+    <fullyQualifiedTypeName name="etities.Pessoa"/>
+    <fullyQualifiedTypeName name="etities.conta"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
