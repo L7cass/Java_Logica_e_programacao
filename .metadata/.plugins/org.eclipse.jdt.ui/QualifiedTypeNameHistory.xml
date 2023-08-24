@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="estities.medida"/>
     <fullyQualifiedTypeName name="estities.usuario"/>
     <fullyQualifiedTypeName name="etities.Pessoa"/>
     <fullyQualifiedTypeName name="etities.conta"/>
     <fullyQualifiedTypeName name="etities.produto"/>
     <fullyQualifiedTypeName name="etities.Usuario"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="etities.ContaCorrente"/>
     <fullyQualifiedTypeName name="etities.ContaPoupanca"/>
+    <fullyQualifiedTypeName name="etities.Cadastro"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="etities.pessoa"/>
 </qualifiedTypeNameHistroy>
